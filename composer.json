@@ -1,6 +1,6 @@
 {
     "name": "vvasystem/o-data",
-    "description": "OData API",
+    "description": "OData Client for PHP",
     "keywords": ["1c", "php", "odata", "odata-client"],
     "type": "library",
     "license": "MIT",
