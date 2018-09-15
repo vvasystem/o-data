@@ -57,8 +57,8 @@ class TestTable extends Table
  \var_dump($resultRow);
  array(3) { 
     ["Ref_Key"]=> string(36) "31b2c19f-e241-11e6-8108-005056a77adb"
-    ["Code"]=> string(5) "Test1" 
-    ["Discription"]=> string(5) "Test1" 
+    ["Code"]=> string(5) "Test" 
+    ["Discription"]=> string(5) "Test" 
  }
 
  $resultRow = $table->update([
@@ -72,7 +72,6 @@ class TestTable extends Table
  $count = $table->count();
  
  // Running RPC
- 
  $result = $table->call('SelectChanges', [
     'DataExchangePoint' => 'http://localhost/1c/odata/standard.odata/ExchangePlan_Обмен(guid'9d586f0e-afec-11e7-be8e-b888e3a9a739')',
     'MessageNo'         => '123456',
