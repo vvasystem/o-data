@@ -1,0 +1,9 @@
+# IDE
+.idea
+
+# PHPUnit local config
+phpunit.xml
+
+# vendors
+/vendor
+/tests/_coverage/*

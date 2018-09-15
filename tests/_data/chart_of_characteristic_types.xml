@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"
+                                            xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+                                            xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/ChartOfCharacteristicTypes_торо_ИзмеряемыеПоказателиОбъектовРемонта(guid'7f4ca510-e471-11e6-8108-005056a77adb')</id>
+        <category term="StandardODATA.ChartOfCharacteristicTypes_торо_ИзмеряемыеПоказателиОбъектовРемонта"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-11-01T10:27:47</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+              href="ChartOfCharacteristicTypes_торо_ИзмеряемыеПоказателиОбъектовРемонта(guid'7f4ca510-e471-11e6-8108-005056a77adb')/ЕдиницаИзмерения"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ЕдиницаИзмерения"/>
+        <link rel="edit"
+              href="ChartOfCharacteristicTypes_торо_ИзмеряемыеПоказателиОбъектовРемонта(guid'7f4ca510-e471-11e6-8108-005056a77adb')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>7f4ca510-e471-11e6-8108-005056a77adb</d:Ref_Key>
+            <d:DataVersion>AAAABQAAAAA=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Code>000000001</d:Code>
+            <d:Description>Вибрация</d:Description>
+            <d:ValueType>
+                <d:Types m:type="Collection(Edm.String)">
+                    <d:element>Number</d:element>
+                </d:Types>
+                <d:NumberQualifiers>
+                    <d:AllowedSign>Any</d:AllowedSign>
+                    <d:Digits>0</d:Digits>
+                    <d:FractionDigits>0</d:FractionDigits>
+                </d:NumberQualifiers>
+            </d:ValueType>
+            <d:ДопустимыйМаксимум>50</d:ДопустимыйМаксимум>
+            <d:ДопустимыйМаксимум_Type>Edm.Double</d:ДопустимыйМаксимум_Type>
+            <d:ДопустимыйМинимум/>
+            <d:ДопустимыйМинимум_Type>StandardODATA.Undefined</d:ДопустимыйМинимум_Type>
+            <d:ЕдиницаИзмерения_Key>75c268fb-ffea-11e6-810c-005056a77adb</d:ЕдиницаИзмерения_Key>
+            <d:КритическийМаксимум>100</d:КритическийМаксимум>
+            <d:КритическийМаксимум_Type>Edm.Double</d:КритическийМаксимум_Type>
+            <d:КритическийМинимум/>
+            <d:КритическийМинимум_Type>StandardODATA.Undefined</d:КритическийМинимум_Type>
+            <d:ТочкаЗамера/>
+        </m:properties>
+        </content>
+    </entry>
+</feed>

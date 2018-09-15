@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"
+                                            xmlns:at="http://purl.org/atompub/tombstones/1.0"
+                                            xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+                                            xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'31b2c19f-e241-11e6-8108-005056a77adb')</id>
+        <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-11T13:13:22</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+              href="Catalog_ПараметрыВыработкиОС(guid'31b2c19f-e241-11e6-8108-005056a77adb')/ЕдиницаИзмерения"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ЕдиницаИзмерения"/>
+        <link rel="edit"
+              href="Catalog_ПараметрыВыработкиОС(guid'31b2c19f-e241-11e6-8108-005056a77adb')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>31b2c19f-e241-11e6-8108-005056a77adb</d:Ref_Key>
+            <d:DataVersion>AAAAAQAAAAA=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Code>000000001</d:Code>
+            <d:Description>Машино-часы</d:Description>
+            <d:ЕдиницаИзмерения_Key>02c71dcc-e200-11e6-8108-005056a77adb</d:ЕдиницаИзмерения_Key>
+        </m:properties>
+        </content>
+    </entry>
+    <entry>
+    <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')</id>
+    <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+              scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <title type="text"/>
+    <updated>2017-10-11T13:13:22</updated>
+    <author/>
+    <summary/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+          href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')/ЕдиницаИзмерения"
+          type="application/atom+xml;type=entry;charset=utf-8"
+          title="ЕдиницаИзмерения"/>
+    <link rel="edit"
+          href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')"
+          title="edit-link"/>
+    <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+        <d:Ref_Key>297a6f59-ad98-11e7-be8e-b888e3a9a739</d:Ref_Key>
+        <d:DataVersion>AAAABwAAAAA=</d:DataVersion>
+        <d:DeletionMark>false</d:DeletionMark>
+        <d:Code>000000007</d:Code>
+        <d:Description>Пройденное расстояние</d:Description>
+        <d:ЕдиницаИзмерения_Key>f16ec6a5-b5f5-11e1-884a-000c29834ce6</d:ЕдиницаИзмерения_Key>
+    </m:properties>
+    </content>
+</entry>
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')</id>
+        <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-11T13:13:22</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')/ЕдиницаИзмерения"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ЕдиницаИзмерения"/>
+        <link rel="edit"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>297a6f59-ad98-11e7-be8e-b888e3a9a739</d:Ref_Key>
+            <d:DataVersion>AAAABwAAAAA=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Code>000000007</d:Code>
+            <d:Description>Пройденное расстояние</d:Description>
+            <d:ЕдиницаИзмерения_Key>f16ec6a5-b5f5-11e1-884a-000c29834ce6</d:ЕдиницаИзмерения_Key>
+        </m:properties>
+        </content>
+    </entry>
+    <entry>
+    <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')</id>
+    <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+              scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <title type="text"/>
+    <updated>2017-10-11T13:13:22</updated>
+    <author/>
+    <summary/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+          href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')/ЕдиницаИзмерения"
+          type="application/atom+xml;type=entry;charset=utf-8"
+          title="ЕдиницаИзмерения"/>
+    <link rel="edit"
+          href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')"
+          title="edit-link"/>
+    <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+        <d:Ref_Key>297a6f59-ad98-11e7-be8e-b888e3a9a739</d:Ref_Key>
+        <d:DataVersion>AAAABwAAAAA=</d:DataVersion>
+        <d:DeletionMark>false</d:DeletionMark>
+        <d:Code>000000007</d:Code>
+        <d:Description>Пройденное расстояние</d:Description>
+        <d:ЕдиницаИзмерения_Key>f16ec6a5-b5f5-11e1-884a-000c29834ce6</d:ЕдиницаИзмерения_Key>
+    </m:properties>
+    </content>
+</entry>
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')</id>
+        <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-11T13:13:22</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')/ЕдиницаИзмерения"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ЕдиницаИзмерения"/>
+        <link rel="edit"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f59-ad98-11e7-be8e-b888e3a9a739')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>297a6f59-ad98-11e7-be8e-b888e3a9a739</d:Ref_Key>
+            <d:DataVersion>AAAABwAAAAA=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Code>000000007</d:Code>
+            <d:Description>Пройденное расстояние</d:Description>
+            <d:ЕдиницаИзмерения_Key>f16ec6a5-b5f5-11e1-884a-000c29834ce6</d:ЕдиницаИзмерения_Key>
+        </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_ПараметрыВыработкиОС(guid'297a6f5a-ad98-11e7-be8e-b888e3a9a739')</id>
+        <category term="StandardODATA.Catalog_ПараметрыВыработкиОС"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-11T13:13:22</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ЕдиницаИзмерения"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f5a-ad98-11e7-be8e-b888e3a9a739')/ЕдиницаИзмерения"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ЕдиницаИзмерения"/>
+        <link rel="edit"
+              href="Catalog_ПараметрыВыработкиОС(guid'297a6f5a-ad98-11e7-be8e-b888e3a9a739')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>297a6f5a-ad98-11e7-be8e-b888e3a9a739</d:Ref_Key>
+            <d:DataVersion>AAAACAAAAAA=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Code>000000008</d:Code>
+            <d:Description>Срок эксплуатации (update)</d:Description>
+            <d:ЕдиницаИзмерения_Key>66a86426-aa69-11e7-be8e-b888e3a9a739</d:ЕдиницаИзмерения_Key>
+        </m:properties>
+        </content>
+    </entry>
+</feed>

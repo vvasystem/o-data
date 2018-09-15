@@ -1,0 +1,4 @@
+<m:error xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <m:code>8</m:code>
+    <m:message>"Catalog_ПараметрыВыработкиОС1" entity is not found</m:message>
+</m:error>

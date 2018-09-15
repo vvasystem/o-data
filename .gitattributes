@@ -1,0 +1,5 @@
+bin/ export-ignore
+test/ export-ignore
+.gitattributes export-ignore
+.dockerignore export-ignore
+phpunit.xml.dist export-ignore

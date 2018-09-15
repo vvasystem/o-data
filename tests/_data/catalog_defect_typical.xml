@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"
+                                            xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+                                            xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_торо_ТиповыеДефектыОборудования(guid'429ee164-204e-11e7-810e-005056a77adb')</id>
+        <category term="StandardODATA.Catalog_торо_ТиповыеДефектыОборудования"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-16T12:32:48</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'429ee164-204e-11e7-810e-005056a77adb')/Owner"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="Owner"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ВидДефекта"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'429ee164-204e-11e7-810e-005056a77adb')/ВидДефекта"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ВидДефекта"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/КритичностьДефекта"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'429ee164-204e-11e7-810e-005056a77adb')/КритичностьДефекта"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="КритичностьДефекта"/>
+        <link rel="edit"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'429ee164-204e-11e7-810e-005056a77adb')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>429ee164-204e-11e7-810e-005056a77adb</d:Ref_Key>
+            <d:DataVersion>AAAAAQAAAAE=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Owner_Key>fb66e764-e15e-11e6-8108-005056a77adb</d:Owner_Key>
+            <d:Parent_Key>00000000-0000-0000-0000-000000000000</d:Parent_Key>
+            <d:IsFolder>false</d:IsFolder>
+            <d:Code>000000002</d:Code>
+            <d:Description>Типовой дефект</d:Description>
+            <d:ВидДефекта_Key>861e8bbf-e165-11e6-8108-005056a77adb</d:ВидДефекта_Key>
+            <d:Комментарий/>
+            <d:КритичностьДефекта_Key>c01d2d6f-e929-11e6-8109-005056a77adb</d:КритичностьДефекта_Key>
+            <d:ОписаниеДефекта>Дефект левого защитного крыла</d:ОписаниеДефекта>
+            <d:ПричиныВозникновенияДефекта m:type="Collection(StandardODATA.Catalog_торо_ТиповыеДефектыОборудования_ПричиныВозникновенияДефекта_RowType)">
+                <d:element m:type="StandardODATA.Catalog_торо_ТиповыеДефектыОборудования_ПричиныВозникновенияДефекта_RowType">
+                    <d:Ref_Key>429ee164-204e-11e7-810e-005056a77adb</d:Ref_Key>
+                    <d:LineNumber>1</d:LineNumber>
+                    <d:Причина_Key>3312a2fc-1dd9-11e7-810e-005056a77adb</d:Причина_Key>
+                </d:element>
+            </d:ПричиныВозникновенияДефекта>
+        </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://localhost/1c/odata/standard.odata/Catalog_торо_ТиповыеДефектыОборудования(guid'e3f7da14-266f-11e7-8110-005056a77adb')</id>
+        <category term="StandardODATA.Catalog_торо_ТиповыеДефектыОборудования"
+                  scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <title type="text"/>
+        <updated>2017-10-16T12:32:48</updated>
+        <author/>
+        <summary/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Owner"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'e3f7da14-266f-11e7-8110-005056a77adb')/Owner"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="Owner"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ВидДефекта"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'e3f7da14-266f-11e7-8110-005056a77adb')/ВидДефекта"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="ВидДефекта"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/КритичностьДефекта"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'e3f7da14-266f-11e7-8110-005056a77adb')/КритичностьДефекта"
+              type="application/atom+xml;type=entry;charset=utf-8"
+              title="КритичностьДефекта"/>
+        <link rel="edit"
+              href="Catalog_торо_ТиповыеДефектыОборудования(guid'e3f7da14-266f-11e7-8110-005056a77adb')"
+              title="edit-link"/>
+        <content type="application/xml"><m:properties xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+            <d:Ref_Key>e3f7da14-266f-11e7-8110-005056a77adb</d:Ref_Key>
+            <d:DataVersion>AAAAAQAAAAI=</d:DataVersion>
+            <d:DeletionMark>false</d:DeletionMark>
+            <d:Owner_Key>fb66e768-e15e-11e6-8108-005056a77adb</d:Owner_Key>
+            <d:Parent_Key>00000000-0000-0000-0000-000000000000</d:Parent_Key>
+            <d:IsFolder>false</d:IsFolder>
+            <d:Code>000000003</d:Code>
+            <d:Description>Поломка</d:Description>
+            <d:ВидДефекта_Key>9f7f7726-e165-11e6-8108-005056a77adb</d:ВидДефекта_Key>
+            <d:Комментарий/>
+            <d:КритичностьДефекта_Key>c01d2d71-e929-11e6-8109-005056a77adb</d:КритичностьДефекта_Key>
+            <d:ОписаниеДефекта>Поломка вала....</d:ОписаниеДефекта>
+            <d:ПричиныВозникновенияДефекта m:type="Collection(StandardODATA.Catalog_торо_ТиповыеДефектыОборудования_ПричиныВозникновенияДефекта_RowType)">
+                <d:element m:type="StandardODATA.Catalog_торо_ТиповыеДефектыОборудования_ПричиныВозникновенияДефекта_RowType">
+                    <d:Ref_Key>e3f7da14-266f-11e7-8110-005056a77adb</d:Ref_Key>
+                    <d:LineNumber>1</d:LineNumber>
+                    <d:Причина_Key>3312a2fb-1dd9-11e7-810e-005056a77adb</d:Причина_Key>
+                </d:element>
+            </d:ПричиныВозникновенияДефекта>
+        </m:properties>
+        </content>
+    </entry>
+</feed>
