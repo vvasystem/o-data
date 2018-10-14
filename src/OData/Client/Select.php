@@ -213,10 +213,10 @@ class Select
     protected function _renderWhere(string $query): string
     {
         if ($this->parts[self::FROM] && $this->parts[self::WHERE]) {
-            $query .= '$filter=' . \rawurlencode(\implode(' ', $this->parts[self::WHERE]));
+            $query .= ($this->parts[self::SELECT] ? '&' : '') . '$filter=' . \rawurlencode(\implode(' ', $this->parts[self::WHERE]));
         }
 
-        return ($this->parts[self::SELECT] ? '&' : '') . $query;
+        return $query;
     }
 
     /**
@@ -284,7 +284,7 @@ class Select
     protected function _renderCount(string $query): string
     {
         if ($this->parts[self::FROM] && $this->parts[self::COUNT]) {
-            $query = $this->parts[static::FROM] . '/$count';
+            $query = $this->parts[static::FROM] . '/$count' . $this->_renderWhere('?');
         }
 
         return $query;
