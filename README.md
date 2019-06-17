@@ -1,6 +1,6 @@
 # OData API
 
-Package OData is designed to connect to REST IPI "1C:Enterprise" using the OData protocol.
+Package OData is designed to connect to REST API "1C:Enterprise" using the OData protocol.
 
 ## Install
 
